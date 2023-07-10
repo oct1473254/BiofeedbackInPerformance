@@ -6,6 +6,8 @@ import serial
 import os
 import matplotlib.pyplot as plt
 
+MODEM_UID = 211201 # enter your modem unique ID
+
 def clear_terminal():
     os.system('cls' if os.name == 'nt' else 'clear')
     
@@ -32,7 +34,7 @@ def draw_piechart(filled_percentage, fig=None, ax=None):
     plt.pause(0.001)  # Pause to allow the plot to update
 
 def visualize_countdown():
-    ser = serial.Serial('/dev/tty.usbmodem1101', baudrate=115200)  # Replace with the correct serial port and baudrate
+    ser = serial.Serial('/dev/tty.usbmodem' + str(MODEM_UID), baudrate=115200)
     
     fig, ax = plt.subplots()  # Create the figure and axis outside the loop
 
