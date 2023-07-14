@@ -62,7 +62,3 @@ def visualize_countdown():
             break
     
 visualize_countdown()
-
-
-
-
