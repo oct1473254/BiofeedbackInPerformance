@@ -1,9 +1,45 @@
-# BIP countdown with a rectangle visual in terminal using CLUE Board and Scosche Rhythm+2.0 armband
-# written by Deniz Yagmur Urey
+# BIP countdown with a user interface
+# written by Michael Rau
 
 import time
 import serial
 import os
+import tkinter as tk
+from PIL import Image, ImageTk
+
+def load_image():
+    global current_image_index
+    current_image_index = 1 - current_image_index
+    image_path = image_paths[current_image_index]
+
+    original_image = Image.open(image_path)
+    resized_image = original_image.resize((200,200), Image.ANTIALIAS)
+
+    tk_image = ImageTk.PhotoImage(resized_image)
+    image_label.image = tk_image
+
+
+def on_button_click():
+    label.config(text="Button Clicked!")
+
+# create a window
+root = tk.Tk()
+root.title("Tkinter Example")
+
+image_paths = ["image1.jpg", "image2.jpg"]
+
+current_image_index = 0
+
+# Create a label
+label = tk.Label(root, text="Hello,this is GUI!")
+image_label = tk.Label(root)
+label.pack(pady=10)
+
+# Create a button
+button = tk.Button(root, text="Click Me!", command=load_image)
+button.pack(pady=10)
+
+load_image()
 
 def clear_terminal():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -59,7 +95,7 @@ def visualize_countdown():
         if (countdown_parameter == "Ran out of Heart beats!!"):
             print("Ran out of heart beats!!")
             break
-    
+root.mainloop()    
 visualize_countdown()
 
 

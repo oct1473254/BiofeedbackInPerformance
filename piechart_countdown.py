@@ -32,7 +32,7 @@ def draw_piechart(filled_percentage, fig=None, ax=None):
     plt.pause(0.001)  # Pause to allow the plot to update
 
 def visualize_countdown():
-    ser = serial.Serial('/dev/tty.usbmodem1101', baudrate=115200)  # Replace with the correct serial port and baudrate
+    ser = serial.Serial('/dev/ttyACM0', baudrate=115200)  # Replace with the correct serial port and baudrate
     
     fig, ax = plt.subplots()  # Create the figure and axis outside the loop
 

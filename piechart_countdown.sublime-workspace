@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"display_B"
+			],
+			[
+				"displa",
+				"display_dashes"
+			],
+			[
+				"d",
+				"display_B"
+			],
+			[
+				"display",
+				"display_bLE"
+			],
+			[
+				"ma",
+				"max_rate"
+			],
+			[
+				"tes_",
+				"test_images"
+			],
+			[
+				"test",
+				"test_images"
+			],
+			[
+				"train",
+				"training_images"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"p",
+				"pyinputplus"
+			],
+			[
+				"ph",
+				"phoneNum"
+			],
+			[
+				"was",
+				"wasTitle"
+			],
+			[
+				"pi",
+				"pigLatin"
+			],
+			[
+				"l",
+				"lines"
+			],
+			[
+				"py",
+				"pyperclip"
+			],
+			[
+				"pr",
+				"printPicnic"
+			],
+			[
+				"m",
+				"mid-R"
+			],
+			[
+				"b",
+				"board"
+			],
+			[
+				"n",
+				"nextCells"
+			],
+			[
+				"ne",
+				"nextCells"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"indn",
+				"indentIncreasing"
+			],
+			[
+				"r",
+				"randomNumber"
+			],
+			[
+				"em_inta",
+				"em_inta_wo_010"
+			],
+			[
+				"show",
+				"show_length_short"
+			],
+			[
+				"sh",
+				"show_length_short"
+			],
+			[
+				"P",
+				"Patron"
+			],
+			[
+				"pa",
+				"patron"
+			],
+			[
+				"sho",
+				"show_length_long"
+			],
+			[
+				"oas",
+				"oakstreetblockassoc"
+			],
+			[
+				"patron",
+				"Patrons"
+			],
+			[
+				"performance",
+				"performance_date"
+			],
+			[
+				"s",
+				"secretNumber"
+			],
+			[
+				"ans",
+				"answerLength"
+			],
+			[
+				"fa",
+				"favoriteHobby"
+			],
+			[
+				"fav",
+				"favoritePodcast"
+			],
+			[
+				"an",
+				"answerLength"
+			],
+			[
+				"nam",
+				"nameLength"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"is",
+				"isPhoneNumber"
+			],
+			[
+				"f",
+				"favoriteHobby"
+			],
+			[
+				"my",
+				"myAge"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: add",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/michael/Dropbox/Stanford/Talks/FranceConference/README.md",
+		"/home/michael/Dropbox/Stanford/Talks/FranceConference/Slides/index.html",
+		"/home/michael/Dropbox/Stanford/Talks/FranceConference/Outline.md",
+		"/home/michael/Dropbox/Stanford/Talks/ATHE 2022/lectures-master/lectures-master/lecture_expanded_body/readme.md",
+		"/home/michael/Dropbox/Stanford/Talks/FranceConference/Script.md",
+		"/home/michael/Downloads/update-clue_nrf52840_bootloader-0.8.0_nosd.uf2",
+		"/home/michael/Dropbox/Stanford/101P Directing and Devising/Fall 2023/Week6Day12/index.html",
+		"/home/michael/Dropbox/Notes/Morning Pages/afternoon pages 11-8-23.md",
+		"/home/michael/Dropbox/Stanford/101P Directing and Devising/Fall 2023/Week2Day4/index.html",
+		"/home/michael/Dropbox/Stanford/101P Directing and Devising/Fall 2023/Week3Day6/index.html",
+		"/home/michael/Dropbox/Stanford/101P Directing and Devising/Fall 2023/Week5Day9/index.html",
+		"/home/michael/reveal.js/examples/markdown.html",
+		"/home/michael/Dropbox/Stanford/101P Directing and Devising/Fall 2023/Week1Day2 Presentation/index.html",
+		"/home/michael/Dropbox/Notes/Morning Pages/afternoon pages 9-28-23.md",
+		"/home/michael/Dropbox/Stanford/Mrs. Warren/First day Notes.md",
+		"/home/michael/Dropbox/Stanford/101P Directing and Devising/Fall 2023/Week 1 Presentation/index.html",
+		"/home/michael/reveal.js/examples/markdown.md",
+		"/home/michael/Dropbox/Handoff Meeting for Artistic director with Branisl",
+		"/home/michael/reveal.js/demo.html",
+		"/home/michael/reveal.js/examples/backgrounds.html",
+		"/home/michael/Dropbox/Notes/morning_pages_9-9-23.md",
+		"/home/michael/Dropbox/Wolf 359 items/2023 retreat.md",
+		"/home/michael/Dropbox/Questions for AI forum.md",
+		"/home/michael/Dropbox/BIP/pythonserial.py",
+		"/home/michael/Dropbox/BIP/countdown_rau.py",
+		"/home/michael/Downloads/code.py",
+		"/media/michael/CIRCUITPY/lib/adafruit_ble/characteristics/json.mpy",
+		"/media/michael/CIRCUITPY/adafruit_bus_device/i2c_device.mpy",
+		"/home/michael/Dropbox/BIP/BIP/script.js",
+		"/home/michael/Dropbox/BIP/BIP/index.html",
+		"/media/michael/CIRCUITPY/code.py",
+		"/home/michael/Dropbox/BIP/BIP/README.md",
+		"/home/michael/Dropbox/BIP/code.py",
+		"/home/michael/Dropbox/BIP/bleaktest.py",
+		"/home/michael/Dropbox/BIP/ble-home.py",
+		"/home/michael/Dropbox/BIP/laptop-test.py",
+		"/home/michael/Dropbox/BIP/ble-friend.py",
+		"/home/michael/Documents/dianaBudget.md",
+		"/home/michael/Documents/Programs/MFST.py",
+		"/home/michael/Documents/dianaletter.md",
+		"/home/michael/Dropbox/Stanford/Mai Lan Notes.md",
+		"/home/michael/posedata-explorer/start_notebook_server.sh",
+		"/home/michael/rails/temping/app/mailers/show_mailer.rb",
+		"/home/michael/rails/temping/app/views/show_mailer/emal01.html.erb",
+		"/home/michael/rails/temping/app/views/patrons/new.html.erb",
+		"/home/michael/rails/temping/app/views/showsender/index.html.erb",
+		"/home/michael/rails/temping/app/views/show_mailer/emca01.html.erb",
+		"/home/michael/Dropbox/Hazam_notes.md",
+		"/home/michael/Dropbox/Wolf 359 items/New_Projects_List.md",
+		"/home/michael/Dropbox/todo.md",
+		"/home/michael/Documents/Programs/tensor1.py",
+		"/home/michael/rails/temping/config/environments/development.rb",
+		"/home/michael/rails/temping/config/environments/production.rb",
+		"/snap/arduino/70/hardware/arduino/avr/libraries/Wire/src/Wire.h",
+		"/snap/arduino/70/hardware/arduino/avr/variants/standard/pins_arduino.h",
+		"/home/michael/posenetexperiments/puppet/pose-animator/README.md",
+		"/home/michael/rails/temping/Gemfile",
+		"/home/michael/Documents/Programs/printRandom.py",
+		"/home/michael/Documents/Programs/birthdays.py",
+		"/home/michael/Dropbox/Stanford/Future of Performance Festiva/Performing Arts Futures.md",
+		"/home/michael/Dropbox/Stanford/elam video/HarryElamSpeech.md",
+		"/home/michael/Dropbox/Stanford/# comparable institutions to Stanford's TAPS.md",
+		"/home/michael/Documents/pico/pico-examples/blink/blink.c",
+		"/home/michael/Documents/pico/pico-examples/CMakeLists.txt",
+		"/home/michael/Documents/Programs/nusers",
+		"/home/michael/Dropbox/todo list.txt",
+		"/home/michael/Dropbox/Stanford/Phd admits/Phd Creative Workshop.md",
+		"/home/michael/Documents/Programs/multiplicationQuiz.py",
+		"/home/michael/Documents/Programs/idiot.py",
+		"/home/michael/Dropbox/Stanford/Phd admits/Phd Admit Exercise.rtf",
+		"/home/michael/Dropbox/Stanford/Future of Performance Festiva/performanceidea.md",
+		"/home/michael/Documents/Programs/bulletPointAdder.py",
+		"/home/michael/Documents/Programs/phoneAndEmail.py",
+		"/home/michael/Documents/Programs/pigLat.py",
+		"/home/michael/Documents/Programs/isPhoneNumber2.py",
+		"/home/michael/Documents/Programs/mclip.sh",
+		"/home/michael/[Desktop Entry].desktop",
+		"/home/michael/Documents/Programs/picnicTable.py",
+		"/home/michael/Documents/Programs/mclip.py",
+		"/home/michael/Documents/Programs/prettycharacterCount.py",
+		"/home/michael/Documents/Programs/ticTacToe.py",
+		"/home/michael/Documents/Programs/validateInput.py",
+		"/home/michael/Documents/Programs/conway.py",
+		"/home/michael/Documents/Programs/zigzag.py",
+		"/home/michael/Documents/Programs/name.py",
+		"/home/michael/Documents/Programs/sameNameLocalGlobal.py",
+		"/home/michael/Documents/Programs/sameNameError.py",
+		"/home/michael/Documents/Programs/zeroDivide.py",
+		"/home/michael/Documents/Programs/exitExample.py",
+		"/home/michael/Documents/Programs/globalStatement.py",
+		"/home/michael/Documents/Programs/localGlobalSameName.py",
+		"/home/michael/Documents/Programs/helloFunc2.py",
+		"/home/michael/Documents/Programs/magic8ball.py",
+		"/home/michael/Documents/Programs/abcdCallStack.py",
+		"/home/michael/Documents/Programs/rpsGame.py",
+		"/home/michael/Documents/Programs/helloFunc.py",
+		"/home/michael/Documents/Programs/pali notes.md",
+		"/home/michael/Documents/Programs/fiveTimes.py",
+		"/home/michael/Documents/Programs/vampire.py",
+		"/home/michael/Dropbox/Wolf 359 items/Wolf 359 Todo Items.md",
+		"/home/michael/.config/sublime-text-3/Packages/User/Python3.sublime-build",
+		"/home/michael/Documents/Programs/hello_world.py",
+		"/home/michael/posenetexperiments/posenet-sketchbook/package.json",
+		"/home/michael/rails/temping/app/views/show_mailer/emja03.html.erb",
+		"/home/michael/rails/temping/app/views/show_mailer/emdi04.html.erb",
+		"/home/michael/rails/temping/app/views/show_mailer/emda04.html.erb",
+		"/home/michael/rails/temping/app/views/show_mailer/emja01.html.erb",
+		"/home/michael/rails/temping/app/views/show_mailer/emja01.text.erb",
+		"/home/michael/rails/MessageSender/app/controllers/performances_controller.rb",
+		"/home/michael/rails/MessageSender/app/models/patron_email.rb",
+		"/home/michael/rails/MessageSender/app/views/patron_mailer/em_gdoc_te_010.html.erb",
+		"/home/michael/rails/MessageSender/app/views/patron_mailer/em_susp_bm_010.html.erb",
+		"/home/michael/rails/MessageSender/db/seeds.rb",
+		"/home/michael/rails/MessageSender/app/mailers/patron_mailer.rb",
+		"/home/michael/rails/MessageSender/app/views/patron_mailer/em_inta_wo_010.html.erb",
+		"/home/michael/rails/MessageSender/app/views/patron_mailer/em_inta_wo_020.html.erb",
+		"/home/michael/rails/MessageSender/app/views/performances/index.html.erb",
+		"/home/michael/rails/MessageSender/app/views/performances/_form.html.erb",
+		"/home/michael/rails/MessageSender/app/views/patron_mailer/em_dogs_bm_090.html.erb",
+		"/home/michael/rails/MessageSender/app/views/patron_mailer/em_dogs_rm_010.html.erb",
+		"/home/michael/rails/MessageSender/app/models/patron.rb",
+		"/home/michael/rails/MessageSender/README.md",
+		"/home/michael/rails/MessageSender/config/application.rb",
+		"/home/michael/rails/MessageSender/config/environments/production.rb",
+		"/home/michael/rails/MessageSender/Gemfile.lock",
+		"/home/michael/rails/MessageSender/db/migrate/20210317084044_add_part_number_to_products.rb",
+		"/home/michael/rails/MessageSender/config/database.yml",
+		"/home/michael/rails/MessageSender/app/models/performance.rb"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C Single File.sublime-build",
+	"project": "piechart_countdown.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
